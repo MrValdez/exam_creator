@@ -1,0 +1,11 @@
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+

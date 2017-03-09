@@ -1,0 +1,50 @@
+You are making a recipt program for your family's {}. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+....
+"Bakery", "Restaurant", "Toy Shop", "Music Store", "Bookstore", "Phone Shop"
+----
+
+
+You are making a calculator that accepts exactly 4 numbers and three operators. Do the operations one after the other (don't follow the MDAS rule).
+
+Save the result in a file called "output.txt"
+
+
+Example input: 1, 2, -10, 200, +, +, *
+Expected output: -1,400
+
+Example input: 300 -300 0 20 - * +
+Expected output: 20
+....
+----
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+{}
+
+Example output:
+{}
+....
+"Gordon, 10\nBruce, 8\nTony, 11\nSteve, 17\nRobin, 16", "Gordon   1\nBruce   8\nTony   4\nSteve   7\nRobin   6", "Betty, 5\nVeronica, 11\nRon, 10\nArchie, 13\nPops, 3", "Betty   5\nVeronica   8\nRon   7\nArchie   9\nPops   3", "Bubbles, 100\nJack, 60\nDexter, 40\nJojo, 80\nEdd, 30", "Bubbles, 100\nJack   60\nDexter   40\nJojo   80\nEdd   30"
+"Steve, 17\nRobin, 16", "Bruce   8\nRobin   7", "Archie, 13\nVeronica, 11", "Archie   9\nVeronica   8", "Bubbles, 100\nJojo, 80", "Bubbles   100\nJojo   80"
+
+----
+
+You are making a program that can make stories. 
+
+The program will ask the user for {}. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+{}
+....
+"2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective", "1 location (proper noun), 2 nouns, 1 name (proper noun), and 1 verb", "3 adjectives, 1 name (proper noun), and 2 nouns"
+"<Name 1> sees <Name 2> at <Location 1>. <Name 2> <verb> at <Name 1>. <Name 1> is <adjective>", "At <location>, <name> sees a <noun 1>. It <verb> <name>. So <name> combined <noun 1> with <noun 2>.", "<Name> sees a <adjective 1> <noun 1>. Later, <name> finds <noun 2> that <adjective 2>. <Name> is <adjective 3>!"

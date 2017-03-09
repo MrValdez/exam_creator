@@ -1,0 +1,52 @@
+Make a program that asks the user for {} names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+{}
+
+Expected saved file:
+{}
+
+Example input: 
+{}
+
+Expected saved file:
+{}
+
+....
+"4", "3"
+"Alvin, Bert, Carol, Desmond\n4, 2, 3, 1", "Pierre, Kat, Betty\n2, 1, 3"
+"Desmond\nBert\nCarol\nAlvin", "Kat\nPierre\nBetty"
+"Alvin, Bert, Carol, Desmond\n1, 2, 4, 3", "Pierre, Kat, Betty\n1, 3, 2"
+"Alvin\nBert\nDesmond\nCarol", "Pierre\nBetty\nKat"
+----
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+{}
+....
+"March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.", "February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.", "April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.", "January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day."
+----
+
+Make a program that opens a file called "fox.txt". Count the number of {} in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+....
+"vowels", "consonant"
+----
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+{}
+....
+"We are the champions, my friends\nAnd we'll keep on fighting till the end\nWe are the champions, we are the champions\nNo time for losers 'cause we are the champions\nOf the world", "Come up to meet you,\nTell you I'm sorry\nYou don't know how lovely you are\nI had to find you\nTell you I need you\nTell you I set you apart", "Young man, there's no need to feel down.\nI said, young man, pick yourself off the ground.\nI said, young man, 'cause you're in a new town\nThere's no need to be unhappy."
+----
+
+Make a program that returns an {} random number between {} to {}.
+....
+"even", "odd"
+"-1000", "-100"
+"1000", "100"

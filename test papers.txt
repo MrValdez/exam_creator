@@ -1,0 +1,3295 @@
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Music Store. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack   60
+Dexter   40
+Jojo   80
+Edd   30
+
+Example output:
+Bubbles   100
+Jojo   80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Phone Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Restaurant. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Young man, there's no need to feel down.
+I said, young man, pick yourself off the ground.
+I said, young man, 'cause you're in a new town
+There's no need to be unhappy.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Restaurant. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+We are the champions, my friends
+And we'll keep on fighting till the end
+We are the champions, we are the champions
+No time for losers 'cause we are the champions
+Of the world
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bakery. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon   1
+Bruce   8
+Tony   4
+Steve   7
+Robin   6
+
+Example output:
+Bruce   8
+Robin   7
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon, 10
+Bruce, 8
+Tony, 11
+Steve, 17
+Robin, 16
+
+Example output:
+Steve, 17
+Robin, 16
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+We are the champions, my friends
+And we'll keep on fighting till the end
+We are the champions, we are the champions
+No time for losers 'cause we are the champions
+Of the world
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack, 60
+Dexter, 40
+Jojo, 80
+Edd, 30
+
+Example output:
+Bubbles, 100
+Jojo, 80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Phone Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+We are the champions, my friends
+And we'll keep on fighting till the end
+We are the champions, we are the champions
+No time for losers 'cause we are the champions
+Of the world
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon   1
+Bruce   8
+Tony   4
+Steve   7
+Robin   6
+
+Example output:
+Bruce   8
+Robin   7
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Toy Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon, 10
+Bruce, 8
+Tony, 11
+Steve, 17
+Robin, 16
+
+Example output:
+Steve, 17
+Robin, 16
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Toy Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 1 location (proper noun), 2 nouns, 1 name (proper noun), and 1 verb. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+At <location>, <name> sees a <noun 1>. It <verb> <name>. So <name> combined <noun 1> with <noun 2>.
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Young man, there's no need to feel down.
+I said, young man, pick yourself off the ground.
+I said, young man, 'cause you're in a new town
+There's no need to be unhappy.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack   60
+Dexter   40
+Jojo   80
+Edd   30
+
+Example output:
+Bubbles   100
+Jojo   80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name 1> sees <Name 2> at <Location 1>. <Name 2> <verb> at <Name 1>. <Name 1> is <adjective>
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack, 60
+Dexter, 40
+Jojo, 80
+Edd, 30
+
+Example output:
+Bubbles, 100
+Jojo, 80
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bakery. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name 1> sees <Name 2> at <Location 1>. <Name 2> <verb> at <Name 1>. <Name 1> is <adjective>
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Restaurant. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bookstore. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Betty   5
+Veronica   8
+Ron   7
+Archie   9
+Pops   3
+
+Example output:
+Archie   9
+Veronica   8
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name 1> sees <Name 2> at <Location 1>. <Name 2> <verb> at <Name 1>. <Name 1> is <adjective>
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Music Store. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Young man, there's no need to feel down.
+I said, young man, pick yourself off the ground.
+I said, young man, 'cause you're in a new town
+There's no need to be unhappy.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bakery. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+We are the champions, my friends
+And we'll keep on fighting till the end
+We are the champions, we are the champions
+No time for losers 'cause we are the champions
+Of the world
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 3 adjectives, 1 name (proper noun), and 2 nouns. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name> sees a <adjective 1> <noun 1>. Later, <name> finds <noun 2> that <adjective 2>. <Name> is <adjective 3>!
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon, 10
+Bruce, 8
+Tony, 11
+Steve, 17
+Robin, 16
+
+Example output:
+Steve, 17
+Robin, 16
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Restaurant. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name 1> sees <Name 2> at <Location 1>. <Name 2> <verb> at <Name 1>. <Name 1> is <adjective>
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bookstore. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Betty   5
+Veronica   8
+Ron   7
+Archie   9
+Pops   3
+
+Example output:
+Archie   9
+Veronica   8
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Betty   5
+Veronica   8
+Ron   7
+Archie   9
+Pops   3
+
+Example output:
+Archie   9
+Veronica   8
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack, 60
+Dexter, 40
+Jojo, 80
+Edd, 30
+
+Example output:
+Bubbles, 100
+Jojo, 80
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bookstore. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon, 10
+Bruce, 8
+Tony, 11
+Steve, 17
+Robin, 16
+
+Example output:
+Steve, 17
+Robin, 16
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon, 10
+Bruce, 8
+Tony, 11
+Steve, 17
+Robin, 16
+
+Example output:
+Steve, 17
+Robin, 16
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+We are the champions, my friends
+And we'll keep on fighting till the end
+We are the champions, we are the champions
+No time for losers 'cause we are the champions
+Of the world
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 3 adjectives, 1 name (proper noun), and 2 nouns. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name> sees a <adjective 1> <noun 1>. Later, <name> finds <noun 2> that <adjective 2>. <Name> is <adjective 3>!
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Toy Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bakery. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack, 60
+Dexter, 40
+Jojo, 80
+Edd, 30
+
+Example output:
+Bubbles, 100
+Jojo, 80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Phone Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Young man, there's no need to feel down.
+I said, young man, pick yourself off the ground.
+I said, young man, 'cause you're in a new town
+There's no need to be unhappy.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bookstore. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack   60
+Dexter   40
+Jojo   80
+Edd   30
+
+Example output:
+Bubbles   100
+Jojo   80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bookstore. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+February is the second month of the year in the Julian and Gregorian calendars. It is the shortest month of the year as it is the only month to have a length of less than 30 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon   1
+Bruce   8
+Tony   4
+Steve   7
+Robin   6
+
+Example output:
+Bruce   8
+Robin   7
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 1 location (proper noun), 2 nouns, 1 name (proper noun), and 1 verb. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+At <location>, <name> sees a <noun 1>. It <verb> <name>. So <name> combined <noun 1> with <noun 2>.
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 3 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Pierre, Kat, Betty
+2, 1, 3
+
+Expected saved file:
+Kat
+Pierre
+Betty
+
+Example input: 
+Pierre, Kat, Betty
+1, 3, 2
+
+Expected saved file:
+Pierre
+Betty
+Kat
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 1 location (proper noun), 2 nouns, 1 name (proper noun), and 1 verb. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+At <location>, <name> sees a <noun 1>. It <verb> <name>. So <name> combined <noun 1> with <noun 2>.
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Betty   5
+Veronica   8
+Ron   7
+Archie   9
+Pops   3
+
+Example output:
+Archie   9
+Veronica   8
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name 1> sees <Name 2> at <Location 1>. <Name 2> <verb> at <Name 1>. <Name 1> is <adjective>
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 3 adjectives, 1 name (proper noun), and 2 nouns. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name> sees a <adjective 1> <noun 1>. Later, <name> finds <noun 2> that <adjective 2>. <Name> is <adjective 3>!
+
+---
+Filename: Part2_A.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack   60
+Dexter   40
+Jojo   80
+Edd   30
+
+Example output:
+Bubbles   100
+Jojo   80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Bubbles, 100
+Jack, 60
+Dexter, 40
+Jojo, 80
+Edd, 30
+
+Example output:
+Bubbles, 100
+Jojo, 80
+
+---
+Filename: Part2_A.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon, 10
+Bruce, 8
+Tony, 11
+Steve, 17
+Robin, 16
+
+Example output:
+Steve, 17
+Robin, 16
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Young man, there's no need to feel down.
+I said, young man, pick yourself off the ground.
+I said, young man, 'cause you're in a new town
+There's no need to be unhappy.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an odd random number between -100 to 100.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Betty   5
+Veronica   8
+Ron   7
+Archie   9
+Pops   3
+
+Example output:
+Archie   9
+Veronica   8
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Young man, there's no need to feel down.
+I said, young man, pick yourself off the ground.
+I said, young man, 'cause you're in a new town
+There's no need to be unhappy.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Bakery. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+Make a program that asks the user for 4 names. Then ask the user for the order of the names and save it to disk.
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+4, 2, 3, 1
+
+Expected saved file:
+Desmond
+Bert
+Carol
+Alvin
+
+Example input: 
+Alvin, Bert, Carol, Desmond
+1, 2, 4, 3
+
+Expected saved file:
+Alvin
+Bert
+Desmond
+Carol
+
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+You are making a recipt program for your family's Phone Shop. The cashier working for you will use this program.
+
+The user will type in what the customer have brought and the cost. The final printed output should be the itemized receipt.
+
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of consonant in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that returns an even random number between -1000 to 1000.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 1 location (proper noun), 2 nouns, 1 name (proper noun), and 1 verb. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+At <location>, <name> sees a <noun 1>. It <verb> <name>. So <name> combined <noun 1> with <noun 2>.
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "song.txt". Ask the user if they want to see the file in upper case, lower case, or title case. Print the output depending on what the user selects.
+
+"song.txt" should contain:
+Come up to meet you,
+Tell you I'm sorry
+You don't know how lovely you are
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+March is the third month of the year in both the Julian and Gregorian calendars. It is the second month to have a length of 31 days.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program for a tournament. 
+
+There are 5 players in this tournament. Each player will have their score recorded into your program. The program will be given to the judge.
+
+The judge will type in the name and score that person received. After all 5 players are entered, the program will list the top 2 players and their scores.
+
+Example input:
+Gordon   1
+Bruce   8
+Tony   4
+Steve   7
+Robin   6
+
+Example output:
+Bruce   8
+Robin   7
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+January is the first month of the year in the Julian and Gregorian calendars and the first month to have the length of 31 days. The first day of the month is known as New Year's Day.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+
+
+
+
+Name: _______________________________________________________ Date: ________________
+
+
+Part I
+20 pts - Implementing the basic functionality
+20 pts - Simplifying the program for the target user
+20 pts - Bonus on submission
+
+Part II
+20 pts each
+
+
+---
+Filename: Part1.py
+
+
+You are making a program that can make stories. 
+
+The program will ask the user for 3 adjectives, 1 name (proper noun), and 2 nouns. Then the program will open a file called "template.txt" which contains the story.
+
+Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
+
+The file "template.txt" contains:
+<Name> sees a <adjective 1> <noun 1>. Later, <name> finds <noun 2> that <adjective 2>. <Name> is <adjective 3>!
+
+---
+Filename: Part2_A.py
+
+
+Make a program that opens a file called "fox.txt". Count the number of vowels in the file and print that number
+
+"fox.txt" should contain:
+
+The quick brown fox jumps over the lazy dog. tHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+
+---
+Filename: Part2_B.py
+
+
+Make a program that opens a file called "month.txt". Remove all the vowels and save/overwrite it to "month.txt"
+
+"month.txt" should contain:
+April is the fourth month of the year in the Gregorian calendar, the fifth in the early Julian and the first month to have the length of 30 days.
