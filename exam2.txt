@@ -32,7 +32,7 @@ Example input:
 Example output:
 {}
 ....
-"Gordon, 10\nBruce, 8\nTony, 11\nSteve, 17\nRobin, 16", "Gordon   1\nBruce   8\nTony   4\nSteve   7\nRobin   6", "Betty, 5\nVeronica, 11\nRon, 10\nArchie, 13\nPops, 3", "Betty   5\nVeronica   8\nRon   7\nArchie   9\nPops   3", "Bubbles, 100\nJack, 60\nDexter, 40\nJojo, 80\nEdd, 30", "Bubbles, 100\nJack   60\nDexter   40\nJojo   80\nEdd   30"
+"Gordon, 10\nBruce, 8\nTony, 11\nSteve, 17\nRobin, 16", "Gordon   1\nBruce   8\nTony   4\nSteve   7\nRobin   6", "Betty, 5\nVeronica, 11\nRon, 10\nArchie, 13\nPops, 3", "Betty   5\nVeronica   8\nRon   7\nArchie   9\nPops   3", "Bubbles, 100\nJack, 60\nDexter, 40\nJojo, 80\nEdd, 30", "Bubbles   100\nJack   60\nDexter   40\nJojo   80\nEdd   30"
 "Steve, 17\nRobin, 16", "Bruce   8\nRobin   7", "Archie, 13\nVeronica, 11", "Archie   9\nVeronica   8", "Bubbles, 100\nJojo, 80", "Bubbles   100\nJojo   80"
 
 ----
@@ -44,6 +44,7 @@ The program will ask the user for {}. Then the program will open a file called "
 Replace the nouns, verbs, and adjectives in the stories with the user's. Save the output to "story.txt". Do not print the output.
 
 The file "template.txt" contains:
+
 {}
 ....
 "2 names (proper nouns), 2 locations (proper nouns), 1 verb, and 1 adjective", "1 location (proper noun), 2 nouns, 1 name (proper noun), and 1 verb", "3 adjectives, 1 name (proper noun), and 2 nouns"
